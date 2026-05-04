@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+  <PropertyGroup>
+    <Author>Callum Carmicheal</Author>
+    <Name>Steam Input Integration</Name>
+    <MinimumDalamudVersion>15.0.0</MinimumDalamudVersion>
+    <Punchline>Utilise Steam Input for advanced controller features /psi</Punchline>
+    <Description>Implement Steam Input to allow for native actions to be bound inside Steam Input, like actions or text commands that don't interupt gameplay.</Description>
+    
+	<!-- <ApplicableVersion>2026.04.21.0000.0000</ApplicableVersion> -->
+    
+	<RepoUrl>https://github.com/CallumCarmicheal/XIVSteamInput</RepoUrl>
+    <PackageProjectUrl>https://github.com/CallumCarmicheal/XIVSteamInput</PackageProjectUrl>
+    <Tags>steam;input;controller</Tags>
+    <CategoryTags>utility;ui</CategoryTags>
+	
+    <!-- <ImageUrls>https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/refs/heads/main/stable/SamplePlugin/images/image1.png;https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/refs/heads/main/stable/SamplePlugin/images/image2.png</ImageUrls> -->
+    <IconUrl>https://raw.githubusercontent.com/CallumCarmicheal/XIVSteamInput/refs/heads/main/stable/images/Icon.png</IconUrl>
+    
+	<Changelog>Plugin Development Started!</Changelog>
+    <AcceptsFeedback>true</AcceptsFeedback>
+    <FeedbackMessage>Ideas, bugs and general feedback is always welcomed.</FeedbackMessage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include=".editorconfig" />
+  </ItemGroup>
+  
+</Project>

@@ -1,0 +1,18 @@
+{
+  "Author": "Callum Carmicheal",
+  "Name": "Steam Input Integration",
+  "InternalName": "XIVSteamInput",
+  "AssemblyVersion": "1.0.0.0",
+  
+  "Punchline": "Utilise Steam Input for advanced controller features /psi",
+  "Description": "Implement Steam Input to allow for native actions to be bound inside Steam Input, like actions or text commands that don't interupt gameplay. /psi",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "controller",
+    "steam",
+    "input"
+  ],
+  
+  "RepoUrl": "https://github.com/CallumCarmicheal/XIVSteamInput",
+  "IconUrl": "https://raw.githubusercontent.com/CallumCarmicheal/XIVSteamInput/master/images/icon.png"
+}
